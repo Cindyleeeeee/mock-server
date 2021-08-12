@@ -31,7 +31,7 @@
               "verified":true,
               "activity":0,
               "representative":{
-                 "name":"Institue Example B",
+                 "name":"Institute Example B",
                  "image":"amyelsner.png"
               },
               "balance":82429
@@ -49,7 +49,7 @@
               "verified":false,
               "activity":63,
               "representative":{
-                 "name":"Institue Example C",
+                 "name":"Institute Example C",
                  "image":"asiyajavayant.png"
               },
               "balance":28334
