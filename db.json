@@ -2,54 +2,54 @@
 {     "data":[
            {
               "id":1000,
-              "name":"James Butt",
+              "name":"Policy 101",
               "country":{
-                 "name":"Algeria",
+                 "name":"City Example A",
                  "code":"dz"
               },
               "company":"Benton, John B Jr",
               "date":"2015-09-13",
-              "status":"unqualified",
+              "status":"Category A",
               "verified":true,
               "activity":17,
               "representative":{
-                 "name":"Ioni Bowcher",
+                 "name":"Institute Example A",
                  "image":"ionibowcher.png"
               },
               "balance":70663
            },
            {
               "id":1001,
-              "name":"Josephine Darakjy",
+              "name":"Policy 102",
               "country":{
-                 "name":"Egypt",
+                 "name":"City Example B",
                  "code":"eg"
               },
               "company":"Chanay, Jeffrey A Esq",
               "date":"2019-02-09",
-              "status":"proposal",
+              "status":"Category B",
               "verified":true,
               "activity":0,
               "representative":{
-                 "name":"Amy Elsner",
+                 "name":"Institue Example B",
                  "image":"amyelsner.png"
               },
               "balance":82429
            },
            {
               "id":1002,
-              "name":"Art Venere",
+              "name":"Policy 303",
               "country":{
-                 "name":"Panama",
+                 "name":"City Example C",
                  "code":"pa"
               },
               "company":"Chemel, James L Cpa",
               "date":"2017-05-13",
-              "status":"qualified",
+              "status":"Category Z",
               "verified":false,
               "activity":63,
               "representative":{
-                 "name":"Asiya Javayant",
+                 "name":"Institue Example C",
                  "image":"asiyajavayant.png"
               },
               "balance":28334
