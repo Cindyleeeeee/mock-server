@@ -9,7 +9,7 @@
               },
               "company":"Benton, John B Jr",
               "date":"2015-09-13",
-              "status":"Category A",
+              "status":["Category A","Category B"],
               "verified":true,
               "activity":17,
               "representative":{
@@ -27,7 +27,7 @@
               },
               "company":"Chanay, Jeffrey A Esq",
               "date":"2019-02-09",
-              "status":"Category B",
+              "status":["Category B"],
               "verified":true,
               "activity":0,
               "representative":{
@@ -45,7 +45,7 @@
               },
               "company":"Chemel, James L Cpa",
               "date":"2017-05-13",
-              "status":"Category Z",
+              "status":["Category C"],
               "verified":false,
               "activity":63,
               "representative":{
