@@ -7,17 +7,15 @@
                  "name":"City Example A",
                  "code":"dz"
               },
-              "company":"Benton, John B Jr",
               "date":"2015-09-13",
               "category":["Category A","Category B"],
               "category2":["Category X","Category Y"],
               "verified":true,
-              "activity":17,
-              "representative":{
+              "institute":{
                  "name":"Institute Example A",
                  "image":"ionibowcher.png"
               },
-              "balance":70663
+              "link":"http://www.cepm.igdp.cn/",
            },
            {
               "id":1001,
@@ -26,17 +24,15 @@
                  "name":"City Example B",
                  "code":"eg"
               },
-              "company":"Chanay, Jeffrey A Esq",
               "date":"2019-02-09",
               "category":["Category B"],
               "category2":["Category V"],
               "verified":true,
-              "activity":0,
-              "representative":{
+              "institute":{
                  "name":"Institute Example B",
                  "image":"amyelsner.png"
               },
-              "balance":82429
+              "link":"http://www.cepm.igdp.cn/",
            },
            {
               "id":1002,
@@ -45,16 +41,14 @@
                  "name":"City Example C",
                  "code":"pa"
               },
-              "company":"Chemel, James L Cpa",
               "date":"2017-05-13",
               "category":["Category C"],
               "category2":["Category W"],
               "verified":false,
-              "activity":63,
-              "representative":{
+              "institute":{
                  "name":"Institute Example C",
                  "image":"asiyajavayant.png"
               },
-              "balance":28334
+              "link":"http://www.cepm.igdp.cn/",
            }]
 }
