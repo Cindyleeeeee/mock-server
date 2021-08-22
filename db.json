@@ -3,7 +3,7 @@
            {
               "id":1000,
               "name":"Policy 101",
-              "country":{
+              "region":{
                  "name":"City Example A",
                  "code":"dz"
               },
@@ -22,7 +22,7 @@
            {
               "id":1001,
               "name":"Policy 102",
-              "country":{
+              "region":{
                  "name":"City Example B",
                  "code":"eg"
               },
@@ -41,7 +41,7 @@
            {
               "id":1002,
               "name":"Policy 303",
-              "country":{
+              "region":{
                  "name":"City Example C",
                  "code":"pa"
               },
