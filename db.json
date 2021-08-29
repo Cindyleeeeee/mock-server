@@ -11,7 +11,7 @@
               "category2":["Category X","Category Y"],
               "verified":true,
               "institute":{
-                 "name":"A",
+                 "name":"Institute Example A",
                  "image":"ionibowcher.png"
               },
               "link":"http://www.cepm.igdp.cn/"
@@ -28,7 +28,7 @@
               "category2":["Category V"],
               "verified":true,
               "institute":{
-                 "name":"B",
+                 "name":"Institute Example B",
                  "image":"amyelsner.png"
               },
               "link":"http://www.cepm.igdp.cn/"
@@ -45,7 +45,7 @@
               "category2":["Category W"],
               "verified":false,
               "institute":{
-                 "name":"B",
+                 "name":"Institute Example C",
                  "image":"asiyajavayant.png"
               },
               "link":"http://www.cepm.igdp.cn/"
